@@ -1,0 +1,39 @@
+const student = [
+{
+    id:101,
+    name:"gaurav kumar",
+    age:19,
+    course:"react",
+    marks:85,
+    city:"Lucknow",
+    isPlaced:false,
+},
+{
+    id:102,
+    name:"alok kumar",
+    age:19,
+    course:"node ",
+    marks:85,
+    city:"Delhi",
+    isPlaced:true,
+},
+{
+    id:103,
+    name:"mohit kumar",
+    age:19,
+    course:"Full stack",
+    marks:85,
+    city:"Mumbai",
+    isPlaced:false,
+},
+{
+    id:104,
+    name:"john kumar",
+    age:19,
+    course:"java",
+    marks:85,
+    city:"pune",
+    isPlaced:true,
+}
+
+];
